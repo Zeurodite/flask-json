@@ -1,0 +1,22 @@
+### GET /info
+GET http://localhost:5000/info
+
+### POST /crear_usuario - válido
+POST http://localhost:5000/crear_usuario
+Content-Type: application/json
+
+{
+  "nombre": "Pedro",
+  "correo": "pedro@email.com"
+}
+
+### POST /crear_usuario - inválido (falta correo)
+POST http://localhost:5000/crear_usuario
+Content-Type: application/json
+
+{
+  "nombre": "Pedro"
+}
+
+### GET /usuarios
+GET http://localhost:5000/usuarios
