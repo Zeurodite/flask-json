@@ -19,7 +19,7 @@ flask-json-leccion3/
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/Zeurodite/comp2052-web-dev-serv-microser.git
+https://github.com/Zeurodite/flask-json.git
 cd flask-json-leccion3
 ```
 
