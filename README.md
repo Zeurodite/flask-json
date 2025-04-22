@@ -67,15 +67,7 @@ Contiene pruebas para:
 
 📸 Se incluye una captura de estas pruebas en el documento `DOCUMENTACION_LECCION3.pdf`.
 
-## 📤 Entrega
 
-Este repositorio debe subirse a GitHub como parte de la entrega del curso. Asegúrate de incluir:
-
-- Código fuente y archivo de estructura JSON
-- `requirements.txt`
-- `test.http`
-- `DOCUMENTACION_LECCION3.pdf`
-- Este archivo `README.md`
 
 ✍️ _Autor: Abdiel Rodríguez_  
 📅 _Fecha: Abril 2025_
